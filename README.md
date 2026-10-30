@@ -2,20 +2,18 @@
 
 **本仓库仅用于分发 Android APK 安装包与版本更新文件，不包含应用源码。**
 
-## 下载
+## 当前版本：v0.2.1（内测版）
 
-前往 [Releases](https://github.com/arisaema-li/imagin-ai-app/releases) 下载，在对应版本的 **Assets** 中选择 `huimeng-app-<版本>.apk`。
-
-当前内测版：[绘梦 App 0.2.1](https://github.com/arisaema-li/imagin-ai-app/releases/tag/v0.2.1)。
-
-## 版本变更记录
-
-### [0.2.1 内测版](https://github.com/arisaema-li/imagin-ai-app/releases/tag/v0.2.1) · 2026-10-30
+发布日期：2026-10-30 · [查看发布说明](https://github.com/arisaema-li/imagin-ai-app/releases/tag/v0.2.1)
 
 - 首次发布已签名的 Android 内测安装包。
 - 包含对话、生图、参考图、图库与模型配置功能。
 - 支持在应用内检查新版，并由用户确认下载和安装。
 - 真机业务与升级体验仍待内测验收。
+
+## 下载
+
+最新版本请到 [Releases](https://github.com/arisaema-li/imagin-ai-app/releases) 下载，在对应版本的 **Assets** 中选择 `huimeng-app-<版本>.apk`。
 
 ## 每次发布的文件
 
@@ -27,6 +25,17 @@
 | `release-notes-<版本>.md` | 更新说明与验证记录 |
 
 安装包和更新文件仅放在 Releases 的 Assets 中。
+
+## 版本变更记录
+
+按发布时间倒序排列，完整说明和安装包见对应 Release。
+
+### [v0.2.1 内测版](https://github.com/arisaema-li/imagin-ai-app/releases/tag/v0.2.1) · 2026-10-30
+
+- 首次发布已签名的 Android 内测安装包。
+- 包含对话、生图、参考图、图库与模型配置功能。
+- 支持在应用内检查新版，并由用户确认下载和安装。
+- 真机业务与升级体验仍待内测验收。
 
 ## 系统要求与安装
 
