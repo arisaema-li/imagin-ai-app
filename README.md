@@ -30,5 +30,4 @@
 
 - 会话、图片和模型配置保存在手机本地，与桌面版分别存储。
 - 卸载应用可能删除本地数据，请提前妥善备份。
-- 应用内更新以 Cloudflare R2 为发布源；GitHub Release 仅作同版产物存档。
 - 内测期间的真机使用反馈可提交到 [Issues](https://github.com/arisaema-li/imagin-ai-app/issues)。
